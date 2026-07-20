@@ -1,4 +1,3 @@
-```markdown
 # ⚡ catz
 
 > **catz** — a blazing-fast drop-in replacement for the classic `cat` utility, written from scratch in **Zig**. It doesn't just mimic the original behavior — it outperforms it with modern system calls and advanced buffering.
